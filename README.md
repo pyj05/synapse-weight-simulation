@@ -1,1 +1,2 @@
+#synapse-weight-simulation
 A simple GIFL-STDP network model created by Nest to simulate the alternation of synpase wieght before and after system consolidation in different poisson spike rate(to simulate various stimulus intensity or the salience of the stimulus relative to background information, like flash frequency)
